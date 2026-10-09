@@ -1,0 +1,201 @@
+student_id,subject,resource,study_time_hours,practice_questions,pre_score,post_score,learning_gain
+S001,DBMS,Online Course,1.1,22,45,51,6
+S002,DBMS,Online Course,4.4,39,35,56,21
+S003,Python,Online Course,1.5,19,62,72,10
+S004,DBMS,YouTube,4.6,49,64,87,23
+S005,DSA,Books,5.0,5,40,53,13
+S006,DSA,Books,1.8,26,36,43,7
+S007,Python,Books,5.2,43,46,72,26
+S008,DBMS,Practice Platform,3.7,29,35,52,17
+S009,DBMS,Books,3.9,50,34,52,18
+S010,Python,Books,5.9,19,36,52,16
+S011,DSA,Books,1.8,27,43,56,13
+S012,DBMS,Online Course,4.0,15,64,79,15
+S013,Python,Practice Platform,2.9,45,74,94,20
+S014,DBMS,Books,5.2,8,44,60,16
+S015,DSA,Practice Platform,2.3,18,66,80,14
+S016,DSA,YouTube,4.3,30,71,88,17
+S017,DSA,YouTube,2.2,40,64,78,14
+S018,DBMS,Practice Platform,5.5,30,53,70,17
+S019,Python,Practice Platform,1.5,8,37,39,2
+S020,Python,Practice Platform,4.0,29,54,72,18
+S021,DSA,Books,5.9,5,73,89,16
+S022,DBMS,Books,4.8,26,37,52,15
+S023,Python,Practice Platform,1.0,21,62,73,11
+S024,DBMS,Online Course,5.4,24,70,88,18
+S025,Python,YouTube,2.9,15,64,79,15
+S026,DBMS,Online Course,4.0,36,31,46,15
+S027,DSA,Books,2.2,20,66,81,15
+S028,Python,Practice Platform,5.1,39,38,56,18
+S029,DSA,YouTube,2.3,43,57,79,22
+S030,DBMS,YouTube,4.6,30,72,92,20
+S031,DSA,Practice Platform,1.6,19,34,41,7
+S032,DBMS,YouTube,3.9,5,34,45,11
+S033,Python,YouTube,1.3,7,51,51,0
+S034,Python,Books,4.3,18,64,74,10
+S035,DBMS,Practice Platform,2.2,35,56,68,12
+S036,Python,Practice Platform,2.8,31,59,78,19
+S037,Python,Online Course,1.3,26,36,44,8
+S038,Python,Practice Platform,1.7,16,47,55,8
+S039,Python,Practice Platform,5.0,40,36,54,18
+S040,DBMS,Online Course,5.8,20,40,57,17
+S041,DSA,YouTube,5.3,8,40,52,12
+S042,DSA,Books,5.6,34,48,69,21
+S043,DBMS,Practice Platform,1.8,23,43,58,15
+S044,DBMS,Online Course,4.7,8,33,46,13
+S045,DBMS,YouTube,1.3,37,35,52,17
+S046,Python,Online Course,4.4,20,55,66,11
+S047,DBMS,YouTube,3.9,7,69,75,6
+S048,DBMS,Books,5.7,18,72,91,19
+S049,Python,Books,3.0,47,71,89,18
+S050,DSA,Online Course,1.0,44,66,86,20
+S051,Python,YouTube,3.5,13,52,67,15
+S052,Python,Books,2.4,33,64,81,17
+S053,DBMS,Online Course,4.3,40,49,74,25
+S054,Python,YouTube,2.3,11,65,69,4
+S055,DSA,YouTube,4.6,18,73,89,16
+S056,DSA,Practice Platform,2.3,8,35,43,8
+S057,DSA,Online Course,1.0,13,70,81,11
+S058,Python,Practice Platform,3.8,32,65,77,12
+S059,Python,YouTube,3.7,28,67,83,16
+S060,DSA,YouTube,1.2,28,32,47,15
+S061,Python,YouTube,4.3,27,65,86,21
+S062,DSA,YouTube,5.6,20,40,62,22
+S063,Python,Practice Platform,1.1,26,56,69,13
+S064,DBMS,YouTube,2.3,49,36,54,18
+S065,Python,Practice Platform,2.1,34,52,64,12
+S066,Python,YouTube,1.1,17,55,61,6
+S067,Python,Books,2.8,37,55,73,18
+S068,DBMS,Books,5.7,12,46,58,12
+S069,DSA,Online Course,1.5,32,52,67,15
+S070,DSA,Practice Platform,4.0,37,37,55,18
+S071,DBMS,YouTube,2.3,50,57,72,15
+S072,DBMS,YouTube,2.8,9,72,85,13
+S073,DBMS,Books,4.3,12,49,61,12
+S074,DBMS,Practice Platform,2.6,49,48,68,20
+S075,Python,Practice Platform,4.3,29,73,93,20
+S076,Python,Books,3.0,5,49,54,5
+S077,DSA,Books,3.3,33,73,87,14
+S078,DSA,YouTube,4.3,23,62,79,17
+S079,DBMS,Books,1.5,20,73,80,7
+S080,Python,YouTube,1.1,20,60,69,9
+S081,Python,Practice Platform,3.1,45,66,83,17
+S082,DBMS,Practice Platform,3.5,20,39,54,15
+S083,Python,Online Course,4.9,19,41,60,19
+S084,DBMS,Practice Platform,1.3,20,37,45,8
+S085,DSA,Books,5.8,33,69,94,25
+S086,DBMS,Practice Platform,5.2,40,58,84,26
+S087,DBMS,Practice Platform,3.3,20,70,80,10
+S088,DBMS,Practice Platform,4.1,22,58,69,11
+S089,DSA,YouTube,2.4,25,64,72,8
+S090,Python,YouTube,2.9,14,75,82,7
+S091,DSA,Practice Platform,2.7,34,56,67,11
+S092,DSA,Practice Platform,5.5,42,74,93,19
+S093,DBMS,Practice Platform,3.4,27,49,66,17
+S094,DSA,YouTube,3.4,22,57,70,13
+S095,DSA,Books,4.3,30,40,61,21
+S096,Python,Online Course,5.5,42,66,91,25
+S097,Python,Practice Platform,1.7,34,41,50,9
+S098,DSA,Books,2.1,25,51,65,14
+S099,DSA,Books,4.8,31,46,68,22
+S100,DSA,Online Course,4.7,8,52,61,9
+S101,Python,Online Course,4.8,20,42,61,19
+S102,DBMS,YouTube,2.2,35,72,83,11
+S103,Python,Practice Platform,4.5,28,40,58,18
+S104,DBMS,Online Course,4.9,15,49,59,10
+S105,Python,Books,3.9,29,55,76,21
+S106,Python,Online Course,4.0,45,45,63,18
+S107,DSA,Online Course,5.0,41,32,53,21
+S108,DSA,Books,1.3,46,51,63,12
+S109,DSA,Practice Platform,1.5,28,70,85,15
+S110,DSA,YouTube,3.2,38,71,87,16
+S111,DBMS,Practice Platform,3.3,42,47,64,17
+S112,Python,Online Course,2.4,33,45,62,17
+S113,DBMS,Practice Platform,2.7,36,50,63,13
+S114,Python,Books,5.0,26,47,69,22
+S115,DBMS,Books,3.8,38,42,57,15
+S116,DBMS,Practice Platform,3.4,20,74,87,13
+S117,DBMS,Practice Platform,3.2,6,35,41,6
+S118,DSA,YouTube,2.5,42,53,70,17
+S119,DBMS,Books,3.1,40,51,68,17
+S120,DSA,Books,2.5,19,37,50,13
+S121,DSA,Online Course,4.7,49,41,62,21
+S122,DBMS,Practice Platform,2.4,42,63,81,18
+S123,Python,YouTube,2.5,28,41,52,11
+S124,DBMS,YouTube,2.4,8,65,70,5
+S125,Python,Practice Platform,1.5,5,66,68,2
+S126,DSA,Practice Platform,2.7,8,46,58,12
+S127,DSA,Online Course,5.1,30,61,76,15
+S128,DBMS,Online Course,1.8,41,49,61,12
+S129,Python,Online Course,3.8,31,68,86,18
+S130,DBMS,YouTube,4.9,29,58,81,23
+S131,DSA,Practice Platform,2.5,44,33,52,19
+S132,DBMS,Online Course,5.7,18,70,84,14
+S133,DBMS,Online Course,1.8,16,65,69,4
+S134,Python,Practice Platform,3.3,43,60,77,17
+S135,Python,Books,4.5,49,59,78,19
+S136,Python,Books,4.9,45,67,92,25
+S137,Python,Practice Platform,1.6,19,71,76,5
+S138,DSA,YouTube,1.4,15,49,57,8
+S139,DBMS,Books,3.2,34,74,89,15
+S140,DSA,Books,3.5,36,58,72,14
+S141,Python,Practice Platform,4.7,43,46,64,18
+S142,Python,Online Course,6.0,48,47,74,27
+S143,Python,Practice Platform,3.6,33,47,61,14
+S144,DBMS,Practice Platform,4.2,36,35,54,19
+S145,DSA,Books,2.6,11,40,47,7
+S146,DBMS,Practice Platform,2.4,30,65,74,9
+S147,Python,Books,2.3,12,55,67,12
+S148,Python,Practice Platform,3.1,17,63,73,10
+S149,DSA,Practice Platform,4.8,18,47,62,15
+S150,DSA,Practice Platform,5.4,36,37,54,17
+S151,DBMS,YouTube,4.5,24,65,76,11
+S152,DSA,Online Course,2.1,12,59,71,12
+S153,DBMS,YouTube,3.5,50,48,70,22
+S154,DSA,Practice Platform,5.2,35,45,65,20
+S155,Python,Practice Platform,2.0,43,62,81,19
+S156,Python,Online Course,2.4,31,51,69,18
+S157,DBMS,Books,5.1,23,49,69,20
+S158,DBMS,Practice Platform,5.3,33,64,84,20
+S159,DSA,Practice Platform,3.3,25,42,61,19
+S160,Python,Practice Platform,2.2,31,32,44,12
+S161,DSA,Practice Platform,2.9,47,71,96,25
+S162,DSA,Online Course,1.6,42,51,70,19
+S163,DSA,Online Course,3.6,34,30,50,20
+S164,DSA,YouTube,1.4,21,51,61,10
+S165,DSA,Online Course,5.3,48,64,88,24
+S166,DSA,Practice Platform,5.4,7,69,78,9
+S167,DBMS,Books,6.0,10,57,77,20
+S168,DBMS,Online Course,3.2,49,49,74,25
+S169,Python,Books,5.0,23,52,68,16
+S170,Python,YouTube,3.7,41,73,96,23
+S171,Python,YouTube,1.4,29,69,82,13
+S172,DSA,YouTube,2.2,45,46,63,17
+S173,DBMS,Online Course,5.5,34,48,71,23
+S174,Python,Online Course,3.2,27,67,79,12
+S175,DSA,Books,3.3,24,42,61,19
+S176,DSA,Online Course,2.2,41,52,69,17
+S177,DBMS,Books,1.1,47,55,69,14
+S178,DBMS,Online Course,5.6,36,48,73,25
+S179,Python,Books,2.1,17,69,76,7
+S180,DBMS,YouTube,4.1,45,71,88,17
+S181,DSA,Online Course,3.9,13,35,51,16
+S182,DSA,Practice Platform,1.9,13,64,75,11
+S183,DSA,Books,5.2,21,60,81,21
+S184,DSA,Books,5.0,34,34,51,17
+S185,Python,Practice Platform,5.8,40,53,73,20
+S186,DSA,Online Course,2.3,12,59,66,7
+S187,DBMS,Books,3.9,45,53,70,17
+S188,Python,Practice Platform,1.1,40,50,68,18
+S189,Python,Online Course,4.2,34,74,91,17
+S190,DSA,Online Course,1.7,7,49,59,10
+S191,Python,Online Course,2.2,39,38,53,15
+S192,DSA,Practice Platform,3.9,14,56,70,14
+S193,DSA,Practice Platform,5.7,22,32,52,20
+S194,Python,Practice Platform,3.2,20,53,61,8
+S195,DBMS,Books,3.7,46,52,69,17
+S196,DSA,YouTube,5.8,34,35,58,23
+S197,DBMS,Online Course,1.3,26,45,60,15
+S198,DBMS,YouTube,1.3,40,43,58,15
+S199,Python,Books,4.9,43,30,50,20
+S200,Python,YouTube,3.7,16,37,51,14

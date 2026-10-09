@@ -1,0 +1,15 @@
+student_id,subject,resource,study_time_hours,practice_questions,pre_score,post_score,learning_gain
+S01,Python,YouTube,2.0,15,40,72,32
+S02,Python,Notes,1.5,20,45,78,33
+S03,Python,Online Course,3.0,30,50,85,35
+S04,DSA,YouTube,2.5,25,42,76,34
+S05,DSA,Notes,2.0,18,38,65,27
+S06,DSA,Online Course,3.5,35,45,88,43
+S07,DBMS,YouTube,1.5,12,50,68,18
+S08,DBMS,Notes,2.0,20,55,75,20
+S09,DBMS,Online Course,3.0,28,52,84,32
+S10,Python,YouTube,2.5,22,48,79,31
+S11,DSA,Notes,1.5,15,35,60,25
+S12,DBMS,Online Course,2.5,25,47,81,34
+S13,Python,Notes,2.0,18,43,70,27
+S14,DSA,YouTube,3.0,30,40,82,42

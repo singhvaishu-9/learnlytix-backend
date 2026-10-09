@@ -1,0 +1,16 @@
+student_id,subject,resource,study_time_hours,practice_questions,pre_score,post_score
+S01,Python,YouTube,2.0,15,40,72
+S02,Python,Notes,1.5,20,45,78
+S03,Python,Online Course,3.0,30,50,85
+S04,DSA,YouTube,2.5,25,42,76
+S05,DSA,Notes,2.0,18,38,65
+S06,DSA,Online Course,3.5,35,45,88
+S07,DBMS,YouTube,1.5,12,50,68
+S08,DBMS,Notes,2.0,20,55,75
+S09,DBMS,Online Course,3.0,28,52,84
+S10,Python,YouTube,2.5,22,48,79
+S11,DSA,Notes,1.5,15,35,60
+S12,DBMS,Online Course,2.5,25,47,81
+S13,Python,Notes,2.0,18,43,70
+S14,DSA,YouTube,3.0,30,40,82
+S15,DBMS,Notes,1.5,14,51,67
